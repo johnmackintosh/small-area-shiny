@@ -32,7 +32,7 @@ phi_pop_pyramid <- function(base_df,
 
   neg_y <- ylimit * -1
 
-   #internal fill scale for manual use
+  #internal fill scale for manual use
 
   mycols <- c(male_col, female_col)
   myvals <- c(male_val, female_val)
@@ -61,11 +61,12 @@ phi_pop_pyramid <- function(base_df,
                        ggplot2::aes({{xcol}},
                                     {{ycol}},
                                     fill = forcats::fct_rev({{fill_by}}))) +
-    ggplot2::geom_col(data = female_data) +
-    ggplot2::geom_col(data = male_data)
+    ggplot2::geom_col(data = male_data) +
+    ggplot2::geom_col(data = female_data)
 
   p <- p + ggplot2::scale_fill_manual(name = "",
-                                      values = int_scale)
+                                      breaks = c(male_val, female_val),
+                                      values = c(male_col, female_col))
 
   p <- p +  ggplot2::scale_y_continuous(breaks = pretty(tempdf$col_breaks,
                                                         n = nbreaks),
@@ -84,14 +85,18 @@ phi_pop_pyramid <- function(base_df,
   p <- p +
     ggplot2::theme(panel.grid.major.y = ggplot2::element_blank())
 
-  p <- p + labs(xlab = "Age band",
-                ylab = "Population")
+  p <- p + labs(x = "",
+                y = "Population")
 
   p <- p +  ggplot2::coord_flip()
 
   p
 
 }
+
+
+
+
 
 
 
