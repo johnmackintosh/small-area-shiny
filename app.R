@@ -8,11 +8,7 @@
 #
 
 library(shiny)
-#library(curl)
-#library(data.table)
 library(dplyr)
-#library(arrow)
-#library(purrr)
 library(ggplot2)
 library(scales)
 library(plotly)
@@ -91,7 +87,7 @@ server <- function(input, output) {
                            title = paste0("Aggregated small area population estimates\n",input$cps),
                            subtitle = "Mid-2022",
                            caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                           x =  "Age band",
+                           x =  "",
                            y = "Population")
 
     ggplotly(p)
@@ -116,7 +112,7 @@ server <- function(input, output) {
                              title = paste0("Aggregated small area population estimates\n",input$cps),
                              subtitle = "Mid-2022",
                              caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                             x =  "Broad age band",
+                             x =  "",
                              y = "Population")
 
 
