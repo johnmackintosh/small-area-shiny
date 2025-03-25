@@ -91,8 +91,8 @@ server <- function(input, output) {
                            title = paste0("Aggregated small area population estimates\n",input$cps),
                            subtitle = "Mid-2022",
                            caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                           xlab =  "Age band",
-                           ylab = "Population")
+                           x =  "Age band",
+                           y = "Population")
 
     ggplotly(p)
   })
@@ -116,8 +116,8 @@ server <- function(input, output) {
                              title = paste0("Aggregated small area population estimates\n",input$cps),
                              subtitle = "Mid-2022",
                              caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                             xlab =  "Broad age band",
-                             ylab = "Population")
+                             x =  "Broad age band",
+                             y = "Population")
 
 
 
