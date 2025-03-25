@@ -1,0 +1,742 @@
+sex,CP_Name,age_band,pop
+Persons,"Oban, Lorn and the Isles",00-04,878
+Persons,"Mid-Argyll, Kintyre and Islay",00-04,740
+Persons,Bute and Cowal,00-04,710
+Persons,Helensburgh and Lomond,00-04,924
+Persons,Lochaber,00-04,751
+Persons,Badenoch and Strathspey,00-04,462
+Persons,Nairn and Nairnshire,00-04,455
+Persons,Inverness,00-04,3891
+Persons,"Skye, Lochalsh and West Ross",00-04,650
+Persons,Mid Ross,00-04,1160
+Persons,East Ross,00-04,1067
+Persons,Sutherland,00-04,412
+Persons,Caithness,00-04,1067
+Females,"Oban, Lorn and the Isles",00-04,434
+Females,"Mid-Argyll, Kintyre and Islay",00-04,367
+Females,Bute and Cowal,00-04,346
+Females,Helensburgh and Lomond,00-04,439
+Females,Lochaber,00-04,379
+Females,Badenoch and Strathspey,00-04,229
+Females,Nairn and Nairnshire,00-04,198
+Females,Inverness,00-04,1946
+Females,"Skye, Lochalsh and West Ross",00-04,311
+Females,Mid Ross,00-04,524
+Females,East Ross,00-04,519
+Females,Sutherland,00-04,218
+Females,Caithness,00-04,518
+Males,"Oban, Lorn and the Isles",00-04,444
+Males,"Mid-Argyll, Kintyre and Islay",00-04,373
+Males,Bute and Cowal,00-04,364
+Males,Helensburgh and Lomond,00-04,485
+Males,Lochaber,00-04,372
+Males,Badenoch and Strathspey,00-04,233
+Males,Nairn and Nairnshire,00-04,257
+Males,Inverness,00-04,1945
+Males,"Skye, Lochalsh and West Ross",00-04,339
+Males,Mid Ross,00-04,636
+Males,East Ross,00-04,548
+Males,Sutherland,00-04,194
+Males,Caithness,00-04,549
+Persons,"Oban, Lorn and the Isles",05-09,987
+Persons,"Mid-Argyll, Kintyre and Islay",05-09,942
+Persons,Bute and Cowal,05-09,869
+Persons,Helensburgh and Lomond,05-09,1122
+Persons,Lochaber,05-09,936
+Persons,Badenoch and Strathspey,05-09,602
+Persons,Nairn and Nairnshire,05-09,576
+Persons,Inverness,05-09,4408
+Persons,"Skye, Lochalsh and West Ross",05-09,875
+Persons,Mid Ross,05-09,1375
+Persons,East Ross,05-09,1181
+Persons,Sutherland,05-09,547
+Persons,Caithness,05-09,1223
+Females,"Oban, Lorn and the Isles",05-09,479
+Females,"Mid-Argyll, Kintyre and Islay",05-09,421
+Females,Bute and Cowal,05-09,415
+Females,Helensburgh and Lomond,05-09,591
+Females,Lochaber,05-09,429
+Females,Badenoch and Strathspey,05-09,272
+Females,Nairn and Nairnshire,05-09,272
+Females,Inverness,05-09,2274
+Females,"Skye, Lochalsh and West Ross",05-09,412
+Females,Mid Ross,05-09,657
+Females,East Ross,05-09,552
+Females,Sutherland,05-09,269
+Females,Caithness,05-09,597
+Males,"Oban, Lorn and the Isles",05-09,508
+Males,"Mid-Argyll, Kintyre and Islay",05-09,521
+Males,Bute and Cowal,05-09,454
+Males,Helensburgh and Lomond,05-09,531
+Males,Lochaber,05-09,507
+Males,Badenoch and Strathspey,05-09,330
+Males,Nairn and Nairnshire,05-09,304
+Males,Inverness,05-09,2134
+Males,"Skye, Lochalsh and West Ross",05-09,463
+Males,Mid Ross,05-09,718
+Males,East Ross,05-09,629
+Males,Sutherland,05-09,278
+Males,Caithness,05-09,626
+Persons,"Oban, Lorn and the Isles",10-14,1160
+Persons,"Mid-Argyll, Kintyre and Islay",10-14,1025
+Persons,Bute and Cowal,10-14,984
+Persons,Helensburgh and Lomond,10-14,1318
+Persons,Lochaber,10-14,1080
+Persons,Badenoch and Strathspey,10-14,662
+Persons,Nairn and Nairnshire,10-14,676
+Persons,Inverness,10-14,4768
+Persons,"Skye, Lochalsh and West Ross",10-14,918
+Persons,Mid Ross,10-14,1556
+Persons,East Ross,10-14,1389
+Persons,Sutherland,10-14,589
+Persons,Caithness,10-14,1409
+Females,"Oban, Lorn and the Isles",10-14,591
+Females,"Mid-Argyll, Kintyre and Islay",10-14,532
+Females,Bute and Cowal,10-14,469
+Females,Helensburgh and Lomond,10-14,649
+Females,Lochaber,10-14,535
+Females,Badenoch and Strathspey,10-14,332
+Females,Nairn and Nairnshire,10-14,323
+Females,Inverness,10-14,2274
+Females,"Skye, Lochalsh and West Ross",10-14,434
+Females,Mid Ross,10-14,757
+Females,East Ross,10-14,666
+Females,Sutherland,10-14,283
+Females,Caithness,10-14,700
+Males,"Oban, Lorn and the Isles",10-14,569
+Males,"Mid-Argyll, Kintyre and Islay",10-14,493
+Males,Bute and Cowal,10-14,515
+Males,Helensburgh and Lomond,10-14,669
+Males,Lochaber,10-14,545
+Males,Badenoch and Strathspey,10-14,330
+Males,Nairn and Nairnshire,10-14,353
+Males,Inverness,10-14,2494
+Males,"Skye, Lochalsh and West Ross",10-14,484
+Males,Mid Ross,10-14,799
+Males,East Ross,10-14,723
+Males,Sutherland,10-14,306
+Males,Caithness,10-14,709
+Persons,"Oban, Lorn and the Isles",15-19,906
+Persons,"Mid-Argyll, Kintyre and Islay",15-19,951
+Persons,Bute and Cowal,15-19,882
+Persons,Helensburgh and Lomond,15-19,1439
+Persons,Lochaber,15-19,1134
+Persons,Badenoch and Strathspey,15-19,599
+Persons,Nairn and Nairnshire,15-19,583
+Persons,Inverness,15-19,4429
+Persons,"Skye, Lochalsh and West Ross",15-19,805
+Persons,Mid Ross,15-19,1342
+Persons,East Ross,15-19,1069
+Persons,Sutherland,15-19,536
+Persons,Caithness,15-19,1268
+Females,"Oban, Lorn and the Isles",15-19,435
+Females,"Mid-Argyll, Kintyre and Islay",15-19,455
+Females,Bute and Cowal,15-19,448
+Females,Helensburgh and Lomond,15-19,597
+Females,Lochaber,15-19,538
+Females,Badenoch and Strathspey,15-19,272
+Females,Nairn and Nairnshire,15-19,285
+Females,Inverness,15-19,2170
+Females,"Skye, Lochalsh and West Ross",15-19,387
+Females,Mid Ross,15-19,646
+Females,East Ross,15-19,489
+Females,Sutherland,15-19,255
+Females,Caithness,15-19,606
+Males,"Oban, Lorn and the Isles",15-19,471
+Males,"Mid-Argyll, Kintyre and Islay",15-19,496
+Males,Bute and Cowal,15-19,434
+Males,Helensburgh and Lomond,15-19,842
+Males,Lochaber,15-19,596
+Males,Badenoch and Strathspey,15-19,327
+Males,Nairn and Nairnshire,15-19,298
+Males,Inverness,15-19,2259
+Males,"Skye, Lochalsh and West Ross",15-19,418
+Males,Mid Ross,15-19,696
+Males,East Ross,15-19,580
+Males,Sutherland,15-19,281
+Males,Caithness,15-19,662
+Persons,"Oban, Lorn and the Isles",20-24,768
+Persons,"Mid-Argyll, Kintyre and Islay",20-24,738
+Persons,Bute and Cowal,20-24,701
+Persons,Helensburgh and Lomond,20-24,1691
+Persons,Lochaber,20-24,999
+Persons,Badenoch and Strathspey,20-24,456
+Persons,Nairn and Nairnshire,20-24,485
+Persons,Inverness,20-24,4223
+Persons,"Skye, Lochalsh and West Ross",20-24,663
+Persons,Mid Ross,20-24,1141
+Persons,East Ross,20-24,974
+Persons,Sutherland,20-24,482
+Persons,Caithness,20-24,1121
+Females,"Oban, Lorn and the Isles",20-24,378
+Females,"Mid-Argyll, Kintyre and Islay",20-24,336
+Females,Bute and Cowal,20-24,337
+Females,Helensburgh and Lomond,20-24,482
+Females,Lochaber,20-24,492
+Females,Badenoch and Strathspey,20-24,182
+Females,Nairn and Nairnshire,20-24,217
+Females,Inverness,20-24,1962
+Females,"Skye, Lochalsh and West Ross",20-24,298
+Females,Mid Ross,20-24,533
+Females,East Ross,20-24,457
+Females,Sutherland,20-24,208
+Females,Caithness,20-24,511
+Males,"Oban, Lorn and the Isles",20-24,390
+Males,"Mid-Argyll, Kintyre and Islay",20-24,402
+Males,Bute and Cowal,20-24,364
+Males,Helensburgh and Lomond,20-24,1209
+Males,Lochaber,20-24,507
+Males,Badenoch and Strathspey,20-24,274
+Males,Nairn and Nairnshire,20-24,268
+Males,Inverness,20-24,2261
+Males,"Skye, Lochalsh and West Ross",20-24,365
+Males,Mid Ross,20-24,608
+Males,East Ross,20-24,517
+Males,Sutherland,20-24,274
+Males,Caithness,20-24,610
+Persons,"Oban, Lorn and the Isles",25-29,1038
+Persons,"Mid-Argyll, Kintyre and Islay",25-29,832
+Persons,Bute and Cowal,25-29,733
+Persons,Helensburgh and Lomond,25-29,1490
+Persons,Lochaber,25-29,996
+Persons,Badenoch and Strathspey,25-29,536
+Persons,Nairn and Nairnshire,25-29,570
+Persons,Inverness,25-29,4777
+Persons,"Skye, Lochalsh and West Ross",25-29,775
+Persons,Mid Ross,25-29,1155
+Persons,East Ross,25-29,1005
+Persons,Sutherland,25-29,479
+Persons,Caithness,25-29,1388
+Females,"Oban, Lorn and the Isles",25-29,533
+Females,"Mid-Argyll, Kintyre and Islay",25-29,415
+Females,Bute and Cowal,25-29,375
+Females,Helensburgh and Lomond,25-29,553
+Females,Lochaber,25-29,494
+Females,Badenoch and Strathspey,25-29,271
+Females,Nairn and Nairnshire,25-29,295
+Females,Inverness,25-29,2379
+Females,"Skye, Lochalsh and West Ross",25-29,371
+Females,Mid Ross,25-29,592
+Females,East Ross,25-29,524
+Females,Sutherland,25-29,248
+Females,Caithness,25-29,654
+Males,"Oban, Lorn and the Isles",25-29,505
+Males,"Mid-Argyll, Kintyre and Islay",25-29,417
+Males,Bute and Cowal,25-29,358
+Males,Helensburgh and Lomond,25-29,937
+Males,Lochaber,25-29,502
+Males,Badenoch and Strathspey,25-29,265
+Males,Nairn and Nairnshire,25-29,275
+Males,Inverness,25-29,2398
+Males,"Skye, Lochalsh and West Ross",25-29,404
+Males,Mid Ross,25-29,563
+Males,East Ross,25-29,481
+Males,Sutherland,25-29,231
+Males,Caithness,25-29,734
+Persons,"Oban, Lorn and the Isles",30-34,1152
+Persons,"Mid-Argyll, Kintyre and Islay",30-34,957
+Persons,Bute and Cowal,30-34,950
+Persons,Helensburgh and Lomond,30-34,1453
+Persons,Lochaber,30-34,1177
+Persons,Badenoch and Strathspey,30-34,617
+Persons,Nairn and Nairnshire,30-34,569
+Persons,Inverness,30-34,5378
+Persons,"Skye, Lochalsh and West Ross",30-34,956
+Persons,Mid Ross,30-34,1342
+Persons,East Ross,30-34,1172
+Persons,Sutherland,30-34,617
+Persons,Caithness,30-34,1386
+Females,"Oban, Lorn and the Isles",30-34,566
+Females,"Mid-Argyll, Kintyre and Islay",30-34,492
+Females,Bute and Cowal,30-34,497
+Females,Helensburgh and Lomond,30-34,636
+Females,Lochaber,30-34,569
+Females,Badenoch and Strathspey,30-34,322
+Females,Nairn and Nairnshire,30-34,286
+Females,Inverness,30-34,2762
+Females,"Skye, Lochalsh and West Ross",30-34,484
+Females,Mid Ross,30-34,680
+Females,East Ross,30-34,617
+Females,Sutherland,30-34,295
+Females,Caithness,30-34,664
+Males,"Oban, Lorn and the Isles",30-34,586
+Males,"Mid-Argyll, Kintyre and Islay",30-34,465
+Males,Bute and Cowal,30-34,453
+Males,Helensburgh and Lomond,30-34,817
+Males,Lochaber,30-34,608
+Males,Badenoch and Strathspey,30-34,295
+Males,Nairn and Nairnshire,30-34,283
+Males,Inverness,30-34,2616
+Males,"Skye, Lochalsh and West Ross",30-34,472
+Males,Mid Ross,30-34,662
+Males,East Ross,30-34,555
+Males,Sutherland,30-34,322
+Males,Caithness,30-34,722
+Persons,"Oban, Lorn and the Isles",35-39,1109
+Persons,"Mid-Argyll, Kintyre and Islay",35-39,1022
+Persons,Bute and Cowal,35-39,964
+Persons,Helensburgh and Lomond,35-39,1515
+Persons,Lochaber,35-39,1125
+Persons,Badenoch and Strathspey,35-39,715
+Persons,Nairn and Nairnshire,35-39,637
+Persons,Inverness,35-39,5550
+Persons,"Skye, Lochalsh and West Ross",35-39,956
+Persons,Mid Ross,35-39,1547
+Persons,East Ross,35-39,1241
+Persons,Sutherland,35-39,570
+Persons,Caithness,35-39,1405
+Females,"Oban, Lorn and the Isles",35-39,610
+Females,"Mid-Argyll, Kintyre and Islay",35-39,531
+Females,Bute and Cowal,35-39,487
+Females,Helensburgh and Lomond,35-39,631
+Females,Lochaber,35-39,588
+Females,Badenoch and Strathspey,35-39,378
+Females,Nairn and Nairnshire,35-39,324
+Females,Inverness,35-39,2852
+Females,"Skye, Lochalsh and West Ross",35-39,470
+Females,Mid Ross,35-39,822
+Females,East Ross,35-39,658
+Females,Sutherland,35-39,285
+Females,Caithness,35-39,703
+Males,"Oban, Lorn and the Isles",35-39,499
+Males,"Mid-Argyll, Kintyre and Islay",35-39,491
+Males,Bute and Cowal,35-39,477
+Males,Helensburgh and Lomond,35-39,884
+Males,Lochaber,35-39,537
+Males,Badenoch and Strathspey,35-39,337
+Males,Nairn and Nairnshire,35-39,313
+Males,Inverness,35-39,2698
+Males,"Skye, Lochalsh and West Ross",35-39,486
+Males,Mid Ross,35-39,725
+Males,East Ross,35-39,583
+Males,Sutherland,35-39,285
+Males,Caithness,35-39,702
+Persons,"Oban, Lorn and the Isles",40-44,1141
+Persons,"Mid-Argyll, Kintyre and Islay",40-44,1006
+Persons,Bute and Cowal,40-44,1003
+Persons,Helensburgh and Lomond,40-44,1489
+Persons,Lochaber,40-44,1179
+Persons,Badenoch and Strathspey,40-44,789
+Persons,Nairn and Nairnshire,40-44,724
+Persons,Inverness,40-44,5648
+Persons,"Skye, Lochalsh and West Ross",40-44,1011
+Persons,Mid Ross,40-44,1563
+Persons,East Ross,40-44,1293
+Persons,Sutherland,40-44,633
+Persons,Caithness,40-44,1362
+Females,"Oban, Lorn and the Isles",40-44,603
+Females,"Mid-Argyll, Kintyre and Islay",40-44,539
+Females,Bute and Cowal,40-44,526
+Females,Helensburgh and Lomond,40-44,673
+Females,Lochaber,40-44,630
+Females,Badenoch and Strathspey,40-44,414
+Females,Nairn and Nairnshire,40-44,371
+Females,Inverness,40-44,2851
+Females,"Skye, Lochalsh and West Ross",40-44,543
+Females,Mid Ross,40-44,822
+Females,East Ross,40-44,653
+Females,Sutherland,40-44,333
+Females,Caithness,40-44,687
+Males,"Oban, Lorn and the Isles",40-44,538
+Males,"Mid-Argyll, Kintyre and Islay",40-44,467
+Males,Bute and Cowal,40-44,477
+Males,Helensburgh and Lomond,40-44,816
+Males,Lochaber,40-44,549
+Males,Badenoch and Strathspey,40-44,375
+Males,Nairn and Nairnshire,40-44,353
+Males,Inverness,40-44,2797
+Males,"Skye, Lochalsh and West Ross",40-44,468
+Males,Mid Ross,40-44,741
+Males,East Ross,40-44,640
+Males,Sutherland,40-44,300
+Males,Caithness,40-44,675
+Persons,"Oban, Lorn and the Isles",45-49,1213
+Persons,"Mid-Argyll, Kintyre and Islay",45-49,1242
+Persons,Bute and Cowal,45-49,1142
+Persons,Helensburgh and Lomond,45-49,1452
+Persons,Lochaber,45-49,1223
+Persons,Badenoch and Strathspey,45-49,809
+Persons,Nairn and Nairnshire,45-49,759
+Persons,Inverness,45-49,5324
+Persons,"Skye, Lochalsh and West Ross",45-49,1180
+Persons,Mid Ross,45-49,1577
+Persons,East Ross,45-49,1331
+Persons,Sutherland,45-49,727
+Persons,Caithness,45-49,1383
+Females,"Oban, Lorn and the Isles",45-49,666
+Females,"Mid-Argyll, Kintyre and Islay",45-49,624
+Females,Bute and Cowal,45-49,617
+Females,Helensburgh and Lomond,45-49,706
+Females,Lochaber,45-49,652
+Females,Badenoch and Strathspey,45-49,431
+Females,Nairn and Nairnshire,45-49,399
+Females,Inverness,45-49,2709
+Females,"Skye, Lochalsh and West Ross",45-49,623
+Females,Mid Ross,45-49,799
+Females,East Ross,45-49,681
+Females,Sutherland,45-49,390
+Females,Caithness,45-49,713
+Males,"Oban, Lorn and the Isles",45-49,547
+Males,"Mid-Argyll, Kintyre and Islay",45-49,618
+Males,Bute and Cowal,45-49,525
+Males,Helensburgh and Lomond,45-49,746
+Males,Lochaber,45-49,571
+Males,Badenoch and Strathspey,45-49,378
+Males,Nairn and Nairnshire,45-49,360
+Males,Inverness,45-49,2615
+Males,"Skye, Lochalsh and West Ross",45-49,557
+Males,Mid Ross,45-49,778
+Males,East Ross,45-49,650
+Males,Sutherland,45-49,337
+Males,Caithness,45-49,670
+Persons,"Oban, Lorn and the Isles",50-54,1557
+Persons,"Mid-Argyll, Kintyre and Islay",50-54,1645
+Persons,Bute and Cowal,50-54,1557
+Persons,Helensburgh and Lomond,50-54,1920
+Persons,Lochaber,50-54,1575
+Persons,Badenoch and Strathspey,50-54,1012
+Persons,Nairn and Nairnshire,50-54,1048
+Persons,Inverness,50-54,6156
+Persons,"Skye, Lochalsh and West Ross",50-54,1537
+Persons,Mid Ross,50-54,2065
+Persons,East Ross,50-54,1538
+Persons,Sutherland,50-54,1015
+Persons,Caithness,50-54,1886
+Females,"Oban, Lorn and the Isles",50-54,778
+Females,"Mid-Argyll, Kintyre and Islay",50-54,870
+Females,Bute and Cowal,50-54,824
+Females,Helensburgh and Lomond,50-54,1024
+Females,Lochaber,50-54,830
+Females,Badenoch and Strathspey,50-54,510
+Females,Nairn and Nairnshire,50-54,561
+Females,Inverness,50-54,3183
+Females,"Skye, Lochalsh and West Ross",50-54,796
+Females,Mid Ross,50-54,1067
+Females,East Ross,50-54,851
+Females,Sutherland,50-54,546
+Females,Caithness,50-54,975
+Males,"Oban, Lorn and the Isles",50-54,779
+Males,"Mid-Argyll, Kintyre and Islay",50-54,775
+Males,Bute and Cowal,50-54,733
+Males,Helensburgh and Lomond,50-54,896
+Males,Lochaber,50-54,745
+Males,Badenoch and Strathspey,50-54,502
+Males,Nairn and Nairnshire,50-54,487
+Males,Inverness,50-54,2973
+Males,"Skye, Lochalsh and West Ross",50-54,741
+Males,Mid Ross,50-54,998
+Males,East Ross,50-54,687
+Males,Sutherland,50-54,469
+Males,Caithness,50-54,911
+Persons,"Oban, Lorn and the Isles",55-59,1869
+Persons,"Mid-Argyll, Kintyre and Islay",55-59,1864
+Persons,Bute and Cowal,55-59,1927
+Persons,Helensburgh and Lomond,55-59,2072
+Persons,Lochaber,55-59,1751
+Persons,Badenoch and Strathspey,55-59,1034
+Persons,Nairn and Nairnshire,55-59,1154
+Persons,Inverness,55-59,6527
+Persons,"Skye, Lochalsh and West Ross",55-59,1861
+Persons,Mid Ross,55-59,2260
+Persons,East Ross,55-59,1620
+Persons,Sutherland,55-59,1229
+Persons,Caithness,55-59,2138
+Females,"Oban, Lorn and the Isles",55-59,976
+Females,"Mid-Argyll, Kintyre and Islay",55-59,951
+Females,Bute and Cowal,55-59,1034
+Females,Helensburgh and Lomond,55-59,1012
+Females,Lochaber,55-59,887
+Females,Badenoch and Strathspey,55-59,511
+Females,Nairn and Nairnshire,55-59,600
+Females,Inverness,55-59,3400
+Females,"Skye, Lochalsh and West Ross",55-59,921
+Females,Mid Ross,55-59,1197
+Females,East Ross,55-59,852
+Females,Sutherland,55-59,609
+Females,Caithness,55-59,1096
+Males,"Oban, Lorn and the Isles",55-59,893
+Males,"Mid-Argyll, Kintyre and Islay",55-59,913
+Males,Bute and Cowal,55-59,893
+Males,Helensburgh and Lomond,55-59,1060
+Males,Lochaber,55-59,864
+Males,Badenoch and Strathspey,55-59,523
+Males,Nairn and Nairnshire,55-59,554
+Males,Inverness,55-59,3127
+Males,"Skye, Lochalsh and West Ross",55-59,940
+Males,Mid Ross,55-59,1063
+Males,East Ross,55-59,768
+Males,Sutherland,55-59,620
+Males,Caithness,55-59,1042
+Persons,"Oban, Lorn and the Isles",60-64,1762
+Persons,"Mid-Argyll, Kintyre and Islay",60-64,1781
+Persons,Bute and Cowal,60-64,1925
+Persons,Helensburgh and Lomond,60-64,1877
+Persons,Lochaber,60-64,1515
+Persons,Badenoch and Strathspey,60-64,1030
+Persons,Nairn and Nairnshire,60-64,1064
+Persons,Inverness,60-64,5550
+Persons,"Skye, Lochalsh and West Ross",60-64,1862
+Persons,Mid Ross,60-64,2116
+Persons,East Ross,60-64,1509
+Persons,Sutherland,60-64,1327
+Persons,Caithness,60-64,2023
+Females,"Oban, Lorn and the Isles",60-64,886
+Females,"Mid-Argyll, Kintyre and Islay",60-64,923
+Females,Bute and Cowal,60-64,967
+Females,Helensburgh and Lomond,60-64,942
+Females,Lochaber,60-64,765
+Females,Badenoch and Strathspey,60-64,538
+Females,Nairn and Nairnshire,60-64,558
+Females,Inverness,60-64,2842
+Females,"Skye, Lochalsh and West Ross",60-64,962
+Females,Mid Ross,60-64,1116
+Females,East Ross,60-64,757
+Females,Sutherland,60-64,684
+Females,Caithness,60-64,981
+Males,"Oban, Lorn and the Isles",60-64,876
+Males,"Mid-Argyll, Kintyre and Islay",60-64,858
+Males,Bute and Cowal,60-64,958
+Males,Helensburgh and Lomond,60-64,935
+Males,Lochaber,60-64,750
+Males,Badenoch and Strathspey,60-64,492
+Males,Nairn and Nairnshire,60-64,506
+Males,Inverness,60-64,2708
+Males,"Skye, Lochalsh and West Ross",60-64,900
+Males,Mid Ross,60-64,1000
+Males,East Ross,60-64,752
+Males,Sutherland,60-64,643
+Males,Caithness,60-64,1042
+Persons,"Oban, Lorn and the Isles",65-69,1444
+Persons,"Mid-Argyll, Kintyre and Islay",65-69,1542
+Persons,Bute and Cowal,65-69,1854
+Persons,Helensburgh and Lomond,65-69,1652
+Persons,Lochaber,65-69,1354
+Persons,Badenoch and Strathspey,65-69,936
+Persons,Nairn and Nairnshire,65-69,1044
+Persons,Inverness,65-69,4916
+Persons,"Skye, Lochalsh and West Ross",65-69,1704
+Persons,Mid Ross,65-69,1863
+Persons,East Ross,65-69,1426
+Persons,Sutherland,65-69,1145
+Persons,Caithness,65-69,1714
+Females,"Oban, Lorn and the Isles",65-69,718
+Females,"Mid-Argyll, Kintyre and Islay",65-69,772
+Females,Bute and Cowal,65-69,947
+Females,Helensburgh and Lomond,65-69,842
+Females,Lochaber,65-69,653
+Females,Badenoch and Strathspey,65-69,490
+Females,Nairn and Nairnshire,65-69,555
+Females,Inverness,65-69,2549
+Females,"Skye, Lochalsh and West Ross",65-69,847
+Females,Mid Ross,65-69,941
+Females,East Ross,65-69,735
+Females,Sutherland,65-69,573
+Females,Caithness,65-69,836
+Males,"Oban, Lorn and the Isles",65-69,726
+Males,"Mid-Argyll, Kintyre and Islay",65-69,770
+Males,Bute and Cowal,65-69,907
+Males,Helensburgh and Lomond,65-69,810
+Males,Lochaber,65-69,701
+Males,Badenoch and Strathspey,65-69,446
+Males,Nairn and Nairnshire,65-69,489
+Males,Inverness,65-69,2367
+Males,"Skye, Lochalsh and West Ross",65-69,857
+Males,Mid Ross,65-69,922
+Males,East Ross,65-69,691
+Males,Sutherland,65-69,572
+Males,Caithness,65-69,878
+Persons,"Oban, Lorn and the Isles",70-74,1357
+Persons,"Mid-Argyll, Kintyre and Islay",70-74,1470
+Persons,Bute and Cowal,70-74,1875
+Persons,Helensburgh and Lomond,70-74,1556
+Persons,Lochaber,70-74,1184
+Persons,Badenoch and Strathspey,70-74,934
+Persons,Nairn and Nairnshire,70-74,906
+Persons,Inverness,70-74,4309
+Persons,"Skye, Lochalsh and West Ross",70-74,1534
+Persons,Mid Ross,70-74,1729
+Persons,East Ross,70-74,1362
+Persons,Sutherland,70-74,1172
+Persons,Caithness,70-74,1570
+Females,"Oban, Lorn and the Isles",70-74,717
+Females,"Mid-Argyll, Kintyre and Islay",70-74,738
+Females,Bute and Cowal,70-74,923
+Females,Helensburgh and Lomond,70-74,818
+Females,Lochaber,70-74,625
+Females,Badenoch and Strathspey,70-74,486
+Females,Nairn and Nairnshire,70-74,438
+Females,Inverness,70-74,2226
+Females,"Skye, Lochalsh and West Ross",70-74,746
+Females,Mid Ross,70-74,900
+Females,East Ross,70-74,706
+Females,Sutherland,70-74,569
+Females,Caithness,70-74,785
+Males,"Oban, Lorn and the Isles",70-74,640
+Males,"Mid-Argyll, Kintyre and Islay",70-74,732
+Males,Bute and Cowal,70-74,952
+Males,Helensburgh and Lomond,70-74,738
+Males,Lochaber,70-74,559
+Males,Badenoch and Strathspey,70-74,448
+Males,Nairn and Nairnshire,70-74,468
+Males,Inverness,70-74,2083
+Males,"Skye, Lochalsh and West Ross",70-74,788
+Males,Mid Ross,70-74,829
+Males,East Ross,70-74,656
+Males,Sutherland,70-74,603
+Males,Caithness,70-74,785
+Persons,"Oban, Lorn and the Isles",75-79,1028
+Persons,"Mid-Argyll, Kintyre and Islay",75-79,1173
+Persons,Bute and Cowal,75-79,1341
+Persons,Helensburgh and Lomond,75-79,1344
+Persons,Lochaber,75-79,949
+Persons,Badenoch and Strathspey,75-79,778
+Persons,Nairn and Nairnshire,75-79,756
+Persons,Inverness,75-79,3294
+Persons,"Skye, Lochalsh and West Ross",75-79,1083
+Persons,Mid Ross,75-79,1431
+Persons,East Ross,75-79,1037
+Persons,Sutherland,75-79,898
+Persons,Caithness,75-79,1270
+Females,"Oban, Lorn and the Isles",75-79,555
+Females,"Mid-Argyll, Kintyre and Islay",75-79,645
+Females,Bute and Cowal,75-79,678
+Females,Helensburgh and Lomond,75-79,715
+Females,Lochaber,75-79,479
+Females,Badenoch and Strathspey,75-79,397
+Females,Nairn and Nairnshire,75-79,417
+Females,Inverness,75-79,1761
+Females,"Skye, Lochalsh and West Ross",75-79,555
+Females,Mid Ross,75-79,760
+Females,East Ross,75-79,557
+Females,Sutherland,75-79,447
+Females,Caithness,75-79,682
+Males,"Oban, Lorn and the Isles",75-79,473
+Males,"Mid-Argyll, Kintyre and Islay",75-79,528
+Males,Bute and Cowal,75-79,663
+Males,Helensburgh and Lomond,75-79,629
+Males,Lochaber,75-79,470
+Males,Badenoch and Strathspey,75-79,381
+Males,Nairn and Nairnshire,75-79,339
+Males,Inverness,75-79,1533
+Males,"Skye, Lochalsh and West Ross",75-79,528
+Males,Mid Ross,75-79,671
+Males,East Ross,75-79,480
+Males,Sutherland,75-79,451
+Males,Caithness,75-79,588
+Persons,"Oban, Lorn and the Isles",80-84,683
+Persons,"Mid-Argyll, Kintyre and Islay",80-84,771
+Persons,Bute and Cowal,80-84,876
+Persons,Helensburgh and Lomond,80-84,779
+Persons,Lochaber,80-84,612
+Persons,Badenoch and Strathspey,80-84,380
+Persons,Nairn and Nairnshire,80-84,487
+Persons,Inverness,80-84,2175
+Persons,"Skye, Lochalsh and West Ross",80-84,707
+Persons,Mid Ross,80-84,848
+Persons,East Ross,80-84,631
+Persons,Sutherland,80-84,568
+Persons,Caithness,80-84,848
+Females,"Oban, Lorn and the Isles",80-84,377
+Females,"Mid-Argyll, Kintyre and Islay",80-84,421
+Females,Bute and Cowal,80-84,502
+Females,Helensburgh and Lomond,80-84,435
+Females,Lochaber,80-84,352
+Females,Badenoch and Strathspey,80-84,212
+Females,Nairn and Nairnshire,80-84,286
+Females,Inverness,80-84,1281
+Females,"Skye, Lochalsh and West Ross",80-84,363
+Females,Mid Ross,80-84,471
+Females,East Ross,80-84,344
+Females,Sutherland,80-84,322
+Females,Caithness,80-84,502
+Males,"Oban, Lorn and the Isles",80-84,306
+Males,"Mid-Argyll, Kintyre and Islay",80-84,350
+Males,Bute and Cowal,80-84,374
+Males,Helensburgh and Lomond,80-84,344
+Males,Lochaber,80-84,260
+Males,Badenoch and Strathspey,80-84,168
+Males,Nairn and Nairnshire,80-84,201
+Males,Inverness,80-84,894
+Males,"Skye, Lochalsh and West Ross",80-84,344
+Males,Mid Ross,80-84,377
+Males,East Ross,80-84,287
+Males,Sutherland,80-84,246
+Males,Caithness,80-84,346
+Persons,"Oban, Lorn and the Isles",85-89,366
+Persons,"Mid-Argyll, Kintyre and Islay",85-89,446
+Persons,Bute and Cowal,85-89,565
+Persons,Helensburgh and Lomond,85-89,501
+Persons,Lochaber,85-89,342
+Persons,Badenoch and Strathspey,85-89,257
+Persons,Nairn and Nairnshire,85-89,292
+Persons,Inverness,85-89,1355
+Persons,"Skye, Lochalsh and West Ross",85-89,401
+Persons,Mid Ross,85-89,490
+Persons,East Ross,85-89,360
+Persons,Sutherland,85-89,328
+Persons,Caithness,85-89,523
+Females,"Oban, Lorn and the Isles",85-89,227
+Females,"Mid-Argyll, Kintyre and Islay",85-89,257
+Females,Bute and Cowal,85-89,342
+Females,Helensburgh and Lomond,85-89,317
+Females,Lochaber,85-89,225
+Females,Badenoch and Strathspey,85-89,153
+Females,Nairn and Nairnshire,85-89,169
+Females,Inverness,85-89,842
+Females,"Skye, Lochalsh and West Ross",85-89,234
+Females,Mid Ross,85-89,272
+Females,East Ross,85-89,219
+Females,Sutherland,85-89,189
+Females,Caithness,85-89,318
+Males,"Oban, Lorn and the Isles",85-89,139
+Males,"Mid-Argyll, Kintyre and Islay",85-89,189
+Males,Bute and Cowal,85-89,223
+Males,Helensburgh and Lomond,85-89,184
+Males,Lochaber,85-89,117
+Males,Badenoch and Strathspey,85-89,104
+Males,Nairn and Nairnshire,85-89,123
+Males,Inverness,85-89,513
+Males,"Skye, Lochalsh and West Ross",85-89,167
+Males,Mid Ross,85-89,218
+Males,East Ross,85-89,141
+Males,Sutherland,85-89,139
+Males,Caithness,85-89,205
+Persons,"Oban, Lorn and the Isles",90+,190
+Persons,"Mid-Argyll, Kintyre and Islay",90+,205
+Persons,Bute and Cowal,90+,261
+Persons,Helensburgh and Lomond,90+,257
+Persons,Lochaber,90+,183
+Persons,Badenoch and Strathspey,90+,121
+Persons,Nairn and Nairnshire,90+,142
+Persons,Inverness,90+,747
+Persons,"Skye, Lochalsh and West Ross",90+,187
+Persons,Mid Ross,90+,294
+Persons,East Ross,90+,179
+Persons,Sutherland,90+,175
+Persons,Caithness,90+,228
+Females,"Oban, Lorn and the Isles",90+,125
+Females,"Mid-Argyll, Kintyre and Islay",90+,134
+Females,Bute and Cowal,90+,171
+Females,Helensburgh and Lomond,90+,158
+Females,Lochaber,90+,119
+Females,Badenoch and Strathspey,90+,89
+Females,Nairn and Nairnshire,90+,98
+Females,Inverness,90+,492
+Females,"Skye, Lochalsh and West Ross",90+,105
+Females,Mid Ross,90+,196
+Females,East Ross,90+,116
+Females,Sutherland,90+,124
+Females,Caithness,90+,152
+Males,"Oban, Lorn and the Isles",90+,65
+Males,"Mid-Argyll, Kintyre and Islay",90+,71
+Males,Bute and Cowal,90+,90
+Males,Helensburgh and Lomond,90+,99
+Males,Lochaber,90+,64
+Males,Badenoch and Strathspey,90+,32
+Males,Nairn and Nairnshire,90+,44
+Males,Inverness,90+,255
+Males,"Skye, Lochalsh and West Ross",90+,82
+Males,Mid Ross,90+,98
+Males,East Ross,90+,63
+Males,Sutherland,90+,51
+Males,Caithness,90+,76

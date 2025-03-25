@@ -1,0 +1,14 @@
+CP_Name,maxval
+"Oban, Lorn and the Isles",976
+"Mid-Argyll, Kintyre and Islay",951
+Helensburgh and Lomond,1209
+Lochaber,887
+Bute and Cowal,1034
+Badenoch and Strathspey,538
+Nairn and Nairnshire,600
+"Skye, Lochalsh and West Ross",962
+Inverness,3400
+Mid Ross,1197
+East Ross,852
+Sutherland,684
+Caithness,1096

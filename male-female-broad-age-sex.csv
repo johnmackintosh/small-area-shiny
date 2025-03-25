@@ -1,0 +1,157 @@
+sex,CP_Name,broad_age_band,pop
+Females,"Oban, Lorn and the Isles",0-15,1612
+Females,"Mid-Argyll, Kintyre and Islay",0-15,1415
+Females,Bute and Cowal,0-15,1312
+Females,Helensburgh and Lomond,0-15,1805
+Females,Lochaber,0-15,1459
+Females,Badenoch and Strathspey,0-15,885
+Females,Nairn and Nairnshire,0-15,846
+Females,Inverness,0-15,6951
+Females,"Skye, Lochalsh and West Ross",0-15,1248
+Females,Mid Ross,0-15,2099
+Females,East Ross,0-15,1861
+Females,Sutherland,0-15,819
+Females,Caithness,0-15,1942
+Males,"Oban, Lorn and the Isles",0-15,1632
+Males,"Mid-Argyll, Kintyre and Islay",0-15,1489
+Males,Bute and Cowal,0-15,1435
+Males,Helensburgh and Lomond,0-15,1819
+Males,Lochaber,0-15,1556
+Males,Badenoch and Strathspey,0-15,975
+Males,Nairn and Nairnshire,0-15,972
+Males,Inverness,0-15,7058
+Males,"Skye, Lochalsh and West Ross",0-15,1364
+Males,Mid Ross,0-15,2304
+Males,East Ross,0-15,2031
+Males,Sutherland,0-15,850
+Males,Caithness,0-15,2023
+Females,"Oban, Lorn and the Isles",16-24,705
+Females,"Mid-Argyll, Kintyre and Islay",16-24,696
+Females,Bute and Cowal,16-24,703
+Females,Helensburgh and Lomond,16-24,953
+Females,Lochaber,16-24,914
+Females,Badenoch and Strathspey,16-24,402
+Females,Nairn and Nairnshire,16-24,449
+Females,Inverness,16-24,3675
+Females,"Skye, Lochalsh and West Ross",16-24,594
+Females,Mid Ross,16-24,1018
+Females,East Ross,16-24,822
+Females,Sutherland,16-24,414
+Females,Caithness,16-24,990
+Males,"Oban, Lorn and the Isles",16-24,750
+Males,"Mid-Argyll, Kintyre and Islay",16-24,796
+Males,Bute and Cowal,16-24,696
+Males,Helensburgh and Lomond,16-24,1917
+Males,Lochaber,16-24,971
+Males,Badenoch and Strathspey,16-24,519
+Males,Nairn and Nairnshire,16-24,508
+Males,Inverness,16-24,4035
+Males,"Skye, Lochalsh and West Ross",16-24,705
+Males,Mid Ross,16-24,1153
+Males,East Ross,16-24,966
+Males,Sutherland,16-24,483
+Males,Caithness,16-24,1133
+Females,"Oban, Lorn and the Isles",25-44,2312
+Females,"Mid-Argyll, Kintyre and Islay",25-44,1977
+Females,Bute and Cowal,25-44,1885
+Females,Helensburgh and Lomond,25-44,2493
+Females,Lochaber,25-44,2281
+Females,Badenoch and Strathspey,25-44,1385
+Females,Nairn and Nairnshire,25-44,1276
+Females,Inverness,25-44,10844
+Females,"Skye, Lochalsh and West Ross",25-44,1868
+Females,Mid Ross,25-44,2916
+Females,East Ross,25-44,2452
+Females,Sutherland,25-44,1161
+Females,Caithness,25-44,2708
+Males,"Oban, Lorn and the Isles",25-44,2128
+Males,"Mid-Argyll, Kintyre and Islay",25-44,1840
+Males,Bute and Cowal,25-44,1765
+Males,Helensburgh and Lomond,25-44,3454
+Males,Lochaber,25-44,2196
+Males,Badenoch and Strathspey,25-44,1272
+Males,Nairn and Nairnshire,25-44,1224
+Males,Inverness,25-44,10509
+Males,"Skye, Lochalsh and West Ross",25-44,1830
+Males,Mid Ross,25-44,2691
+Males,East Ross,25-44,2259
+Males,Sutherland,25-44,1138
+Males,Caithness,25-44,2833
+Females,"Oban, Lorn and the Isles",45-64,3306
+Females,"Mid-Argyll, Kintyre and Islay",45-64,3368
+Females,Bute and Cowal,45-64,3442
+Females,Helensburgh and Lomond,45-64,3684
+Females,Lochaber,45-64,3134
+Females,Badenoch and Strathspey,45-64,1990
+Females,Nairn and Nairnshire,45-64,2118
+Females,Inverness,45-64,12134
+Females,"Skye, Lochalsh and West Ross",45-64,3302
+Females,Mid Ross,45-64,4179
+Females,East Ross,45-64,3141
+Females,Sutherland,45-64,2229
+Females,Caithness,45-64,3765
+Males,"Oban, Lorn and the Isles",45-64,3095
+Males,"Mid-Argyll, Kintyre and Islay",45-64,3164
+Males,Bute and Cowal,45-64,3109
+Males,Helensburgh and Lomond,45-64,3637
+Males,Lochaber,45-64,2930
+Males,Badenoch and Strathspey,45-64,1895
+Males,Nairn and Nairnshire,45-64,1907
+Males,Inverness,45-64,11423
+Males,"Skye, Lochalsh and West Ross",45-64,3138
+Males,Mid Ross,45-64,3839
+Males,East Ross,45-64,2857
+Males,Sutherland,45-64,2069
+Males,Caithness,45-64,3665
+Females,"Oban, Lorn and the Isles",65-74,1435
+Females,"Mid-Argyll, Kintyre and Islay",65-74,1510
+Females,Bute and Cowal,65-74,1870
+Females,Helensburgh and Lomond,65-74,1660
+Females,Lochaber,65-74,1278
+Females,Badenoch and Strathspey,65-74,976
+Females,Nairn and Nairnshire,65-74,993
+Females,Inverness,65-74,4775
+Females,"Skye, Lochalsh and West Ross",65-74,1593
+Females,Mid Ross,65-74,1841
+Females,East Ross,65-74,1441
+Females,Sutherland,65-74,1142
+Females,Caithness,65-74,1621
+Males,"Oban, Lorn and the Isles",65-74,1366
+Males,"Mid-Argyll, Kintyre and Islay",65-74,1502
+Males,Bute and Cowal,65-74,1859
+Males,Helensburgh and Lomond,65-74,1548
+Males,Lochaber,65-74,1260
+Males,Badenoch and Strathspey,65-74,894
+Males,Nairn and Nairnshire,65-74,957
+Males,Inverness,65-74,4450
+Males,"Skye, Lochalsh and West Ross",65-74,1645
+Males,Mid Ross,65-74,1751
+Males,East Ross,65-74,1347
+Males,Sutherland,65-74,1175
+Males,Caithness,65-74,1663
+Females,"Oban, Lorn and the Isles",75 and over,1284
+Females,"Mid-Argyll, Kintyre and Islay",75 and over,1457
+Females,Bute and Cowal,75 and over,1693
+Females,Helensburgh and Lomond,75 and over,1625
+Females,Lochaber,75 and over,1175
+Females,Badenoch and Strathspey,75 and over,851
+Females,Nairn and Nairnshire,75 and over,970
+Females,Inverness,75 and over,4376
+Females,"Skye, Lochalsh and West Ross",75 and over,1257
+Females,Mid Ross,75 and over,1699
+Females,East Ross,75 and over,1236
+Females,Sutherland,75 and over,1082
+Females,Caithness,75 and over,1654
+Males,"Oban, Lorn and the Isles",75 and over,983
+Males,"Mid-Argyll, Kintyre and Islay",75 and over,1138
+Males,Bute and Cowal,75 and over,1350
+Males,Helensburgh and Lomond,75 and over,1256
+Males,Lochaber,75 and over,911
+Males,Badenoch and Strathspey,75 and over,685
+Males,Nairn and Nairnshire,75 and over,707
+Males,Inverness,75 and over,3195
+Males,"Skye, Lochalsh and West Ross",75 and over,1121
+Males,Mid Ross,75 and over,1364
+Males,East Ross,75 and over,971
+Males,Sutherland,75 and over,887
+Males,Caithness,75 and over,1215
