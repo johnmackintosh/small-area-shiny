@@ -60,7 +60,7 @@ phi_pop_pyramid <- function(base_df,
   p <- ggplot2::ggplot(data = NULL,
                        ggplot2::aes({{xcol}},
                                     {{ycol}},
-                                    fill = forcats::fct_rev({{fill_by}}))) +
+                                    fill = {{fill_by}})) +
     ggplot2::geom_col(data = male_data) +
     ggplot2::geom_col(data = female_data)
 
