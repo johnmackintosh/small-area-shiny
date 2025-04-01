@@ -8,16 +8,7 @@
 #
 
 library(shiny)
-
-# library(ggplot2)
-# library(scales)
-# library(plotly)
-
-
-
-#source("./phi_pop_pyramid.R")
 source("./base_pyramid.R")
-
 
 maximals <- read.csv("./maximal_values.txt")
 
