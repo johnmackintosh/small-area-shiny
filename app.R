@@ -8,6 +8,7 @@
 #
 
 library(shiny)
+
 library(ggplot2)
 library(scales)
 library(plotly)
@@ -47,7 +48,6 @@ ui <- fluidPage(
     mainPanel(
       fluidRow(
         column(6, plotlyOutput("pyramid",width = "600px", height = "400px")),
-        column(6, plotlyOutput("pyramid2",width = "600px",height = "400px"))
       )
 
     )
@@ -59,7 +59,6 @@ ui <- fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
-
 
   output$pyramid <- renderPlotly({
 
@@ -89,28 +88,6 @@ server <- function(input, output) {
   })
 
 
-  output$pyramid2 <- renderPlotly({
-
-    t2 <- read.csv("male-female-broad-age-sex.csv")
-    t2 <- t2[t2$CP_Name == input$cps & t2$sex != "Persons",]
-
-    p2 <- phi_pop_pyramid(t2,
-                          xcol = broad_age_band,
-                          ycol = pop,
-                          fill_by = sex,
-                          male_val = "Males",
-                          female_val = "Females",
-                          ylimit = NA)  
-
-    p2 <- p2 + ggplot2::labs(p2,
-                             title = paste0("Aggregated small area population estimates\n",input$cps),
-                             subtitle = "Mid-2022",
-                             caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                             x =  "",
-                             y = "Population")
-
-    ggplotly(p2)
-  })
 }
 
 # Run the application
