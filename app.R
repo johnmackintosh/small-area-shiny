@@ -9,11 +9,14 @@
 
 library(shiny)
 
-library(ggplot2)
-library(scales)
-library(plotly)
+# library(ggplot2)
+# library(scales)
+# library(plotly)
 
-source("./phi_pop_pyramid.R")
+
+
+#source("./phi_pop_pyramid.R")
+source("./base_pyramid.R")
 
 
 maximals <- read.csv("./maximal_values.txt")
@@ -47,7 +50,7 @@ ui <- fluidPage(
     # Show a plot of the generated distribution
     mainPanel(
       fluidRow(
-        column(6, plotlyOutput("pyramid",width = "600px", height = "400px")),
+        column(6, plotOutput("pyramid",width = "600px", height = "400px")),
       )
 
     )
@@ -60,31 +63,10 @@ ui <- fluidPage(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
 
-  output$pyramid <- renderPlotly({
+  output$pyramid <- renderPlot({
 
-    # get the correct max value for the chosen CP area
+base_pyramid(areaname = input$cps)
 
-    max_value <- maximals[maximals$CP_Name == input$cps,2]
-
-    t1 <- read.csv("cp-age-sex-pops.csv")
-    t1 <- t1[t1$CP_Name == input$cps & t1$sex != "Persons",]
-
-    p <- phi_pop_pyramid(t1,
-                         xcol = age_band,
-                         ycol = pop,
-                         fill_by = sex,
-                         male_val = "Males",
-                         female_val = "Females",
-                         ylimit = max_value)
-
-    p <- p + ggplot2::labs(p,
-                           title = paste0("Aggregated small area population estimates\n",input$cps),
-                           subtitle = "Mid-2022",
-                           caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
-                           x =  "",
-                           y = "Population")
-
-    ggplotly(p)
   })
 
 
