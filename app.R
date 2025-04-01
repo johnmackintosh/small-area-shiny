@@ -8,7 +8,6 @@
 #
 
 library(shiny)
-library(dplyr)
 library(ggplot2)
 library(scales)
 library(plotly)
@@ -66,14 +65,10 @@ server <- function(input, output) {
 
     # get the correct max value for the chosen CP area
 
-    max_value <- maximals |>
-      filter(CP_Name == input$cps) |>
-      select(maxval) |>
-      distinct()|>
-      pull()
+    max_value <- maximals[maximals$CP_Name == input$cps,2]
 
-    t1 <- read.csv("cp-age-sex-pops.csv")|>
-      filter(CP_Name == input$cps & sex != "Persons")
+    t1 <- read.csv("cp-age-sex-pops.csv")
+    t1 <- t1[t1$CP_Name == input$cps & t1$sex != "Persons",]
 
     p <- phi_pop_pyramid(t1,
                          xcol = age_band,
@@ -96,8 +91,8 @@ server <- function(input, output) {
 
   output$pyramid2 <- renderPlotly({
 
-    t2 <- read.csv("male-female-broad-age-sex.csv") |>
-      filter(CP_Name == input$cps & sex != "Persons")
+    t2 <- read.csv("male-female-broad-age-sex.csv")
+    t2 <- t2[t2$CP_Name == input$cps & t2$sex != "Persons",]
 
     p2 <- phi_pop_pyramid(t2,
                           xcol = broad_age_band,
@@ -105,8 +100,7 @@ server <- function(input, output) {
                           fill_by = sex,
                           male_val = "Males",
                           female_val = "Females",
-                          ylimit = NA)  #+
-    #scale_y_continuous(labels = label_comma())
+                          ylimit = NA)  
 
     p2 <- p2 + ggplot2::labs(p2,
                              title = paste0("Aggregated small area population estimates\n",input$cps),
@@ -114,9 +108,6 @@ server <- function(input, output) {
                              caption = "Source: NRS small area population estimates\nPublished: Nov 2024",
                              x =  "",
                              y = "Population")
-
-
-
 
     ggplotly(p2)
   })
