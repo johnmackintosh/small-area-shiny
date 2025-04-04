@@ -4,7 +4,8 @@ base_pyramid <- function(areaname,
                          female_value =  "Females",
                          male_colour = "#0072B2",
                          female_colour = "#56B4E9",
-                         plot_title = NULL){
+                         plot_title = NULL,
+                         gridlines){
 
   cps <- areaname
 
@@ -66,6 +67,30 @@ base_pyramid <- function(areaname,
           las = 1,
           tcl = 0,
           xlab = "Population")
+
+  if (gridlines) {
+
+    grid()
+
+    barplot(height = males$pop,
+            col = male_colour,
+            border = NA,
+            horiz = TRUE,
+            axes = FALSE,
+            names.arg = c("0-4", "5-9", "10-14", "15-19", "20-24" ,
+                          "25-29", "30-34", "35-39", "40-44", "45-49",
+                          "50-54", "55-59", "60-64", "65-69", "70-74",
+                          "75-79", "80-84", "85-89", "90+"),
+            axisnames = TRUE,
+            xlim = c(low_val, max_value),
+            las = 1,
+            tcl = 0,
+            xlab = "Population",
+            add = TRUE)
+
+  }
+
+
 
   barplot(height = females$pop,
           col = female_colour,

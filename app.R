@@ -8,7 +8,16 @@
 #
 
 library(shiny)
+
+# library(ggplot2)
+# library(scales)
+# library(plotly)
+
+
+
+#source("./phi_pop_pyramid.R")
 source("./base_pyramid.R")
+
 
 maximals <- read.csv("./maximal_values.txt")
 
@@ -35,7 +44,8 @@ ui <- fluidPage(
                               "Nairn and Nairnshire",
                               "Oban, Lorn and the Isles",
                               "Skye, Lochalsh and West Ross",
-                              "Sutherland"))
+                              "Sutherland")),
+      checkboxInput("chkbox", "Show gridlines?", FALSE),
     ),
 
     # Show a plot of the generated distribution
@@ -56,7 +66,8 @@ server <- function(input, output) {
 
   output$pyramid <- renderPlot({
 
-base_pyramid(areaname = input$cps)
+base_pyramid(areaname = input$cps,
+             gridlines = input$chkbox)
 
   })
 
