@@ -66,7 +66,6 @@ males <- t1[t1$sex == male_value,]
 
 
 
-
   barplot(height = males$pop, # because horizontal, sets length of the bars
           col = male_colour, # fill colour
           border = NA, # no outlines on bars
@@ -81,10 +80,25 @@ males <- t1[t1$sex == male_value,]
 
   if (gridlines) {
 
-    par(new = TRUE)  # Prevents clearing the plot
-    grid()           # Adds gridlines without erasing the existing plot
-    par(new = FALSE) # Reset the `par` parameter
+    grid()
+    
+# redraw to ensure the gridlines sit behind the bars
+    
+    barplot(height = males$pop,
+            col = male_colour,
+            border = NA,
+            horiz = TRUE,
+            axes = FALSE,
+            names.arg = age_bands,
+            axisnames = TRUE,
+            xlim = c(low_val, max_value),
+            las = 1,
+            tcl = 0,
+            xlab = "Population",
+            add = TRUE)
+
   }
+
 
 
   barplot(height = females$pop,
